@@ -9,3 +9,5 @@ tasks:
       cp -f /workspace/ohmyzsh/templates/zshrc.zsh-template ~/.zshrc
       ln -sf /workspace/ohmyzsh ~/.oh-my-zsh
     command: exec zsh
+
+![.github/workflows/Gitpod.yml](https://github.com/persianyagami90xs/ohmyzsh/workflows/.github/workflows/Gitpod.yml/badge.svg)
